@@ -1,3 +1,8 @@
+/dist
+
+#csv files
+*.csv
+
 # Logs
 logs
 *.log
